@@ -1,0 +1,20 @@
+RMSD matrix (based on multiple superpostion):
+       1    2  
+     ----------
+  1|  --- 25.3
+  2| 25.3  ---
+
+Traslation vector for struct 1 (1v6x_A_1.pdb):
+   0.000   0.000   0.000
+Rotation matrix for struct 1 (1v6x_A_1.pdb):
+   1.000   0.000   0.000
+   0.000   1.000   0.000
+   0.000   0.000   1.000
+
+Traslation vector for struct 2 (7c68_A_1.pdb):
+  22.288  45.068  79.135
+Rotation matrix for struct 2 (7c68_A_1.pdb):
+   0.751  -0.324   0.576
+   0.518   0.829  -0.210
+  -0.409   0.456   0.790
+
