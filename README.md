@@ -14,6 +14,7 @@ Using WEBNnm@ (http://apps.cbu.uib.no/webnma3) we applied normal mode analysis f
 The building block of proteins are aminoacids. The aminoacids binding with peptidic edges, therefore constitutes a peptide. These peptides fold to build more complex structures, the proteins. In other words, the structure of a protein depends of the specific binding structure of peptidic edges, and this binding structure can be represented as a network.
 
 ![image](https://github.com/JuanHigueraC/A-exploration-of-the-relation-between-structure-dynamics-and-function-of-symmetrical-proteins./blob/3fd932cbf4129bd69fe03983cedabdb9d3847204/Images/aminoacid.PNG)
+
 **Figure 1. Diagram of aminoacid.**
 
 Take aminoacids as nodes, and peptidic edges as edges. The resulting network capture the structure of the protein. 
@@ -21,6 +22,7 @@ Take aminoacids as nodes, and peptidic edges as edges. The resulting network cap
 Once stablished a network that capture the binding structure, we can use normal mode analysis for the study of the oscillatory dynamics intrinsic in the binding structure of the protein and specifically in their simmetries.
 
 ![image](https://github.com/JuanHigueraC/A-exploration-of-the-relation-between-structure-dynamics-and-function-of-simmetric-proteins./blob/a9aba82481c0da76779be00c18f6ef129e9639e6/Images/simetries%20of%20proteins.PNG)
+
 **Figure 2. Some simmetries of proteins.**
 
 In this model we assume that the nodes are masses, and their edges are springs, so that the protein was modeled as a network of harmonic oscillators. 
