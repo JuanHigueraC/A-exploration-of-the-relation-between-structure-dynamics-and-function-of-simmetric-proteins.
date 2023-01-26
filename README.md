@@ -73,7 +73,8 @@ Therefore we align the proteins according to their similarity in DNA sequences a
 
 
 
-##Conclusions 
+## Conclusions
+
  
 **[1]** Symmetries of the protein, biological function and DNA secuences are related with the oscillatory dynamics of proteins.
 
