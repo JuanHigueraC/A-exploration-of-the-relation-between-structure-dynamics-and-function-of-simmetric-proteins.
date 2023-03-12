@@ -8,7 +8,7 @@ This project was realized by
 
 This project was presented for the course **Solid State Physics** of the National University of Colombia.
 
-Using WEBNnm@ (http://apps.cbu.uib.no/webnma3) we applied normal mode analysis for simulate dynamics of proteins, after we compare fluctuations, higher normal frecuencys and similarity between proteins with different simmetries and biological function. We obtain that both, simmetry of structure and biological function are related with the oscillation dynamics of the protein, but which of these are more correlated depends on whether the analysis was done before or after the alignment of the DNA sequences.
+Using WEBNnm@ (http://apps.cbu.uib.no/webnma3) we applied normal mode analysis for simulate dynamics of proteins, after we compare fluctuations, higher normal frecuencys and similarity between proteins with different symmetries and biological function. We obtain that both, symmetry of structure and biological function are related with the oscillation dynamics of the protein, but which of these are more correlated depends on whether the analysis was done before or after the alignment of the DNA sequences.
 
 ## Modeling proteins as oscillator networks
 
@@ -40,7 +40,7 @@ For this study we took two symmetries D2 and C2, and two biological functions me
 
 ![image](https://github.com/JuanHigueraC/A-exploration-of-the-relation-between-structure-dynamics-and-function-of-simmetric-proteins./blob/c164eaf9689c6b8124ade45604df0d66749e6930/Images/tabla%20de%20proteinas.PNG)
 
-**Figure 3. Biological function and simmetry of selected proteins.**
+**Figure 3. Biological function and symmetry of selected proteins.**
 
 ## Results
 
